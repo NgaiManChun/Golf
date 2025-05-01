@@ -16,3 +16,6 @@ H押しながらで遠く
 
 ## 使用した音素材
 効果音ラボ
+
+## 使用したライブラリ
+https://github.com/assimp/assimp.git
